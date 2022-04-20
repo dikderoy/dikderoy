@@ -9,8 +9,6 @@ Building mixed solution architectures and services on top of Python, Ruby, PHP a
 
 ### Links 🌍
 
-- [DevStory/StackOverflow](https://stackoverflow.com/story/dikderoy)
-- [CV/StackOverflow](https://stackoverflow.com/cv/dikderoy)
 - [Linked.In](https://www.linkedin.com/in/dikderoy/)
 
 ### How to reach me
